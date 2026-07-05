@@ -2,7 +2,7 @@
 
 Welcome!
 
-This repository contains all the Python projects I build while learning programming, data analysis, APIs and machine learning.
+This repository contains all the Python projects I build while learning programming, data analysis, APIs, and machine learning.
 
 ## Roadmap
 
